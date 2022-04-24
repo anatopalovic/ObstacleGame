@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 2/23/2022 11:13:57 PM : Starting C:/Users/anato/Desktop/sve za unity/2020.3.29f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 623.8288ms
+moved types parse time: 55ms
+candidates parse time : 1ms
+C# parse time         : 570ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2/23/2022 11:14:10 PM : Starting C:/Users/anato/Desktop/sve za unity/2020.3.29f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 78.0128ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 161ms
+candidates check time : 38ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2/25/2022 7:02:44 PM : Starting C:/Users/anato/Desktop/sve za unity/2020.3.29f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 787.5008ms
+moved types parse time: 43ms
+candidates parse time : 1ms
+C# parse time         : 505ms
+candidates check time : 39ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 3/1/2022 12:07:46 PM : Starting C:/Users/anato/Desktop/sve za unity/2020.3.29f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1229.7479ms
+moved types parse time: 76ms
+candidates parse time : 1ms
+C# parse time         : 810ms
+candidates check time : 58ms
+console write time    : 0ms
+
